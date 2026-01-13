@@ -1,0 +1,13 @@
+{
+  "name": "recruitment-jd-backend",
+  "version": "1.0.0",
+  "description": "Backend to generate Job Description PDF",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdfkit": "^0.15.0"
+  }
+}
